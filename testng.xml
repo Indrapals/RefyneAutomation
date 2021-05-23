@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RefyneSuite">
+<listeners>
+	<listener class-name="com.qa.util.Listeners" />
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.qa.tests.SearchcarTest"/>
+      <class name="com.qa.tests.LoginuserTest"/>
+      <class name="com.qa.tests.CabookingTest"/>
+      <class name="com.qa.tests.CalculatepriceTest"/>
+      <class name="com.qa.tests.ListBookingsTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
