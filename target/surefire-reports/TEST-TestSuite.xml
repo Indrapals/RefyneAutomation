@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="23.614" tests="18" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="gopherProxySet" value="false"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/insingh/Desktop/RefyneAutomation/target/test-classes:/Users/insingh/Desktop/RefyneAutomation/target/classes:/Users/insingh/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/insingh/.m2/repository/io/rest-assured/rest-assured/3.1.0/rest-assured-3.1.0.jar:/Users/insingh/.m2/repository/org/codehaus/groovy/groovy/2.4.12/groovy-2.4.12.jar:/Users/insingh/.m2/repository/org/codehaus/groovy/groovy-xml/2.4.12/groovy-xml-2.4.12.jar:/Users/insingh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/insingh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/insingh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/insingh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/insingh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.1/httpmime-4.5.1.jar:/Users/insingh/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/insingh/.m2/repository/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar:/Users/insingh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/insingh/.m2/repository/io/rest-assured/json-path/3.1.0/json-path-3.1.0.jar:/Users/insingh/.m2/repository/org/codehaus/groovy/groovy-json/2.4.12/groovy-json-2.4.12.jar:/Users/insingh/.m2/repository/io/rest-assured/rest-assured-common/3.1.0/rest-assured-common-3.1.0.jar:/Users/insingh/.m2/repository/io/rest-assured/xml-path/3.1.0/xml-path-3.1.0.jar:/Users/insingh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/insingh/.m2/repository/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.jar:/Users/insingh/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/Users/insingh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/insingh/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/Users/insingh/.m2/repository/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar:/Users/insingh/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar:/Users/insingh/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/Users/insingh/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar:/Users/insingh/.m2/repository/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar:/Users/insingh/.m2/repository/org/mongodb/mongodb-driver/3.3.0/mongodb-driver-3.3.0.jar:/Users/insingh/.m2/repository/org/mongodb/mongodb-driver-core/3.3.0/mongodb-driver-core-3.3.0.jar:/Users/insingh/.m2/repository/org/mongodb/bson/3.3.0/bson-3.3.0.jar:/Users/insingh/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="user.country.format" value="IN"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib"/>
+    <property name="sun.java.command" value="/Users/insingh/Desktop/RefyneAutomation/target/surefire/surefirebooter2860368345030077278.jar /Users/insingh/Desktop/RefyneAutomation/target/surefire 2021-05-23T18-07-07_069-jvmRun1 surefire3821157759319013476tmp surefire_02775408347629403950tmp"/>
+    <property name="surefire.test.class.path" value="/Users/insingh/Desktop/RefyneAutomation/target/test-classes:/Users/insingh/Desktop/RefyneAutomation/target/classes:/Users/insingh/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/insingh/.m2/repository/io/rest-assured/rest-assured/3.1.0/rest-assured-3.1.0.jar:/Users/insingh/.m2/repository/org/codehaus/groovy/groovy/2.4.12/groovy-2.4.12.jar:/Users/insingh/.m2/repository/org/codehaus/groovy/groovy-xml/2.4.12/groovy-xml-2.4.12.jar:/Users/insingh/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/insingh/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/insingh/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/insingh/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/insingh/.m2/repository/org/apache/httpcomponents/httpmime/4.5.1/httpmime-4.5.1.jar:/Users/insingh/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/insingh/.m2/repository/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar:/Users/insingh/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/insingh/.m2/repository/io/rest-assured/json-path/3.1.0/json-path-3.1.0.jar:/Users/insingh/.m2/repository/org/codehaus/groovy/groovy-json/2.4.12/groovy-json-2.4.12.jar:/Users/insingh/.m2/repository/io/rest-assured/rest-assured-common/3.1.0/rest-assured-common-3.1.0.jar:/Users/insingh/.m2/repository/io/rest-assured/xml-path/3.1.0/xml-path-3.1.0.jar:/Users/insingh/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/insingh/.m2/repository/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.jar:/Users/insingh/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/Users/insingh/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/insingh/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/Users/insingh/.m2/repository/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar:/Users/insingh/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar:/Users/insingh/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/Users/insingh/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar:/Users/insingh/.m2/repository/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar:/Users/insingh/.m2/repository/org/mongodb/mongodb-driver/3.3.0/mongodb-driver-3.3.0.jar:/Users/insingh/.m2/repository/org/mongodb/mongodb-driver-core/3.3.0/mongodb-driver-core-3.3.0.jar:/Users/insingh/.m2/repository/org/mongodb/bson/3.3.0/bson-3.3.0.jar:/Users/insingh/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/insingh"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre"/>
+    <property name="basedir" value="/Users/insingh/Desktop/RefyneAutomation"/>
+    <property name="file.separator" value="/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/Users/insingh/Desktop/RefyneAutomation/target/surefire/surefirebooter2860368345030077278.jar"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/classes"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_281-b09"/>
+    <property name="user.name" value="insingh"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.15.7"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="/Users/insingh/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/vd/hdq701z92jjgtcwdfq5k56fh0000gp/T/"/>
+    <property name="java.version" value="1.8.0_281"/>
+    <property name="user.dir" value="/Users/insingh/Desktop/RefyneAutomation"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/Users/insingh/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.281-b09"/>
+    <property name="java.ext.dirs" value="/Users/insingh/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="checkContentTypeSearchcar" classname="com.qa.tests.SearchcarTest" time="0.018"/>
+  <testcase name="checkStatusCodeSearchcar" classname="com.qa.tests.SearchcarTest" time="0"/>
+  <testcase name="checkstatusLineSearchcar" classname="com.qa.tests.SearchcarTest" time="0"/>
+  <testcase name="checkContentTypeLoginuser" classname="com.qa.tests.LoginuserTest" time="0.001"/>
+  <testcase name="checkResposeBodyLoginuser" classname="com.qa.tests.LoginuserTest" time="0.009"/>
+  <testcase name="checkStatusCodeLoginuser" classname="com.qa.tests.LoginuserTest" time="0"/>
+  <testcase name="checkstatusLineLoginuser" classname="com.qa.tests.LoginuserTest" time="0.001"/>
+  <testcase name="checkContentTypeCarBooking" classname="com.qa.tests.CarbookingTest" time="0"/>
+  <testcase name="checkResposeBodyCarBooking" classname="com.qa.tests.CarbookingTest" time="0.001"/>
+  <testcase name="checkStatusCodeCarBooking" classname="com.qa.tests.CarbookingTest" time="0.001"/>
+  <testcase name="checkstatusLineCarBooking" classname="com.qa.tests.CarbookingTest" time="0.001"/>
+  <testcase name="checkContentTypeCalculateprice" classname="com.qa.tests.CalculatepriceTest" time="0.001"/>
+  <testcase name="checkResposeBodyCalculateprice" classname="com.qa.tests.CalculatepriceTest" time="0"/>
+  <testcase name="checkStatusCodeCalculateprice" classname="com.qa.tests.CalculatepriceTest" time="0"/>
+  <testcase name="checkstatusLineCalculateprice" classname="com.qa.tests.CalculatepriceTest" time="0.001"/>
+  <testcase name="checkContentTypeListBookings" classname="com.qa.tests.ListBookingsTest" time="0"/>
+  <testcase name="checkStatusCodeListBookings" classname="com.qa.tests.ListBookingsTest" time="0.003"/>
+  <testcase name="checkstatusLineListBookings" classname="com.qa.tests.ListBookingsTest" time="0.001"/>
+</testsuite>

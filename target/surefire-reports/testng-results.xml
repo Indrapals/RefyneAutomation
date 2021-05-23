@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="18" passed="18">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RefyneSuite" duration-ms="23007" started-at="2021-05-23T12:37:07Z" finished-at="2021-05-23T12:37:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23007" started-at="2021-05-23T12:37:07Z" finished-at="2021-05-23T12:37:30Z">
+      <class name="com.qa.tests.SearchcarTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.SearchcarTest@13fee20c]" name="setUp" is-config="true" duration-ms="15177" started-at="2021-05-23T12:37:08Z" finished-at="2021-05-23T12:37:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkContentTypeSearchcar()[pri:0, instance:com.qa.tests.SearchcarTest@13fee20c]" name="checkContentTypeSearchcar" duration-ms="2" started-at="2021-05-23T12:37:23Z" finished-at="2021-05-23T12:37:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentTypeSearchcar -->
+        <test-method status="PASS" signature="checkStatusCodeSearchcar()[pri:0, instance:com.qa.tests.SearchcarTest@13fee20c]" name="checkStatusCodeSearchcar" duration-ms="1" started-at="2021-05-23T12:37:23Z" finished-at="2021-05-23T12:37:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCodeSearchcar -->
+        <test-method status="PASS" signature="checkstatusLineSearchcar()[pri:0, instance:com.qa.tests.SearchcarTest@13fee20c]" name="checkstatusLineSearchcar" duration-ms="0" started-at="2021-05-23T12:37:23Z" finished-at="2021-05-23T12:37:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatusLineSearchcar -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.SearchcarTest@13fee20c]" name="tearDown" is-config="true" duration-ms="2" started-at="2021-05-23T12:37:23Z" finished-at="2021-05-23T12:37:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.SearchcarTest -->
+      <class name="com.qa.tests.LoginuserTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LoginuserTest@4e04a765]" name="setUp" is-config="true" duration-ms="2008" started-at="2021-05-23T12:37:23Z" finished-at="2021-05-23T12:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkContentTypeLoginuser()[pri:0, instance:com.qa.tests.LoginuserTest@4e04a765]" name="checkContentTypeLoginuser" duration-ms="0" started-at="2021-05-23T12:37:25Z" finished-at="2021-05-23T12:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentTypeLoginuser -->
+        <test-method status="PASS" signature="checkResposeBodyLoginuser()[pri:0, instance:com.qa.tests.LoginuserTest@4e04a765]" name="checkResposeBodyLoginuser" duration-ms="8" started-at="2021-05-23T12:37:25Z" finished-at="2021-05-23T12:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResposeBodyLoginuser -->
+        <test-method status="PASS" signature="checkStatusCodeLoginuser()[pri:0, instance:com.qa.tests.LoginuserTest@4e04a765]" name="checkStatusCodeLoginuser" duration-ms="1" started-at="2021-05-23T12:37:25Z" finished-at="2021-05-23T12:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCodeLoginuser -->
+        <test-method status="PASS" signature="checkstatusLineLoginuser()[pri:0, instance:com.qa.tests.LoginuserTest@4e04a765]" name="checkstatusLineLoginuser" duration-ms="0" started-at="2021-05-23T12:37:25Z" finished-at="2021-05-23T12:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatusLineLoginuser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginuserTest@4e04a765]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-05-23T12:37:25Z" finished-at="2021-05-23T12:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.LoginuserTest -->
+      <class name="com.qa.tests.ListBookingsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.ListBookingsTest@735f7ae5]" name="setUp" is-config="true" duration-ms="2153" started-at="2021-05-23T12:37:28Z" finished-at="2021-05-23T12:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkContentTypeListBookings()[pri:0, instance:com.qa.tests.ListBookingsTest@735f7ae5]" name="checkContentTypeListBookings" duration-ms="0" started-at="2021-05-23T12:37:30Z" finished-at="2021-05-23T12:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentTypeListBookings -->
+        <test-method status="PASS" signature="checkStatusCodeListBookings()[pri:0, instance:com.qa.tests.ListBookingsTest@735f7ae5]" name="checkStatusCodeListBookings" duration-ms="0" started-at="2021-05-23T12:37:30Z" finished-at="2021-05-23T12:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCodeListBookings -->
+        <test-method status="PASS" signature="checkstatusLineListBookings()[pri:0, instance:com.qa.tests.ListBookingsTest@735f7ae5]" name="checkstatusLineListBookings" duration-ms="0" started-at="2021-05-23T12:37:30Z" finished-at="2021-05-23T12:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatusLineListBookings -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.ListBookingsTest@735f7ae5]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-05-23T12:37:30Z" finished-at="2021-05-23T12:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.ListBookingsTest -->
+      <class name="com.qa.tests.CarbookingTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.CarbookingTest@783e6358]" name="setUp" is-config="true" duration-ms="1682" started-at="2021-05-23T12:37:25Z" finished-at="2021-05-23T12:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkContentTypeCarBooking()[pri:0, instance:com.qa.tests.CarbookingTest@783e6358]" name="checkContentTypeCarBooking" duration-ms="1" started-at="2021-05-23T12:37:27Z" finished-at="2021-05-23T12:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentTypeCarBooking -->
+        <test-method status="PASS" signature="checkResposeBodyCarBooking()[pri:0, instance:com.qa.tests.CarbookingTest@783e6358]" name="checkResposeBodyCarBooking" duration-ms="0" started-at="2021-05-23T12:37:27Z" finished-at="2021-05-23T12:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResposeBodyCarBooking -->
+        <test-method status="PASS" signature="checkStatusCodeCarBooking()[pri:0, instance:com.qa.tests.CarbookingTest@783e6358]" name="checkStatusCodeCarBooking" duration-ms="0" started-at="2021-05-23T12:37:27Z" finished-at="2021-05-23T12:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCodeCarBooking -->
+        <test-method status="PASS" signature="checkstatusLineCarBooking()[pri:0, instance:com.qa.tests.CarbookingTest@783e6358]" name="checkstatusLineCarBooking" duration-ms="0" started-at="2021-05-23T12:37:27Z" finished-at="2021-05-23T12:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatusLineCarBooking -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.CarbookingTest@783e6358]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-05-23T12:37:27Z" finished-at="2021-05-23T12:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.CarbookingTest -->
+      <class name="com.qa.tests.CalculatepriceTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.CalculatepriceTest@17550481]" name="setUp" is-config="true" duration-ms="1739" started-at="2021-05-23T12:37:27Z" finished-at="2021-05-23T12:37:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkContentTypeCalculateprice()[pri:0, instance:com.qa.tests.CalculatepriceTest@17550481]" name="checkContentTypeCalculateprice" duration-ms="0" started-at="2021-05-23T12:37:28Z" finished-at="2021-05-23T12:37:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentTypeCalculateprice -->
+        <test-method status="PASS" signature="checkResposeBodyCalculateprice()[pri:0, instance:com.qa.tests.CalculatepriceTest@17550481]" name="checkResposeBodyCalculateprice" duration-ms="0" started-at="2021-05-23T12:37:28Z" finished-at="2021-05-23T12:37:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResposeBodyCalculateprice -->
+        <test-method status="PASS" signature="checkstatusLineCalculateprice()[pri:0, instance:com.qa.tests.CalculatepriceTest@17550481]" name="checkstatusLineCalculateprice" duration-ms="0" started-at="2021-05-23T12:37:28Z" finished-at="2021-05-23T12:37:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatusLineCalculateprice -->
+        <test-method status="PASS" signature="checkStatusCodeCalculateprice()[pri:0, instance:com.qa.tests.CalculatepriceTest@17550481]" name="checkStatusCodeCalculateprice" duration-ms="0" started-at="2021-05-23T12:37:28Z" finished-at="2021-05-23T12:37:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCodeCalculateprice -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.CalculatepriceTest@17550481]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-05-23T12:37:28Z" finished-at="2021-05-23T12:37:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.CalculatepriceTest -->
+    </test> <!-- Test -->
+  </suite> <!-- RefyneSuite -->
+</testng-results>

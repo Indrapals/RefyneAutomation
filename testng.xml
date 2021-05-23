@@ -8,7 +8,7 @@
     <classes>
       <class name="com.qa.tests.SearchcarTest"/>
       <class name="com.qa.tests.LoginuserTest"/>
-      <class name="com.qa.tests.CabookingTest"/>
+      <class name="com.qa.tests.CarbookingTest"/>
       <class name="com.qa.tests.CalculatepriceTest"/>
       <class name="com.qa.tests.ListBookingsTest"/>
     </classes>

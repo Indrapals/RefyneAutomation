@@ -23,3 +23,8 @@
 2021-05-23 12:21:57,855 INFO  [LogUtilities] Car booking test completed 
 2021-05-23 12:22:00,164 INFO  [LogUtilities] Calculate price test completed 
 2021-05-23 12:22:02,896 INFO  [LogUtilities] List bookings test completed 
+2021-05-23 18:07:23,364 INFO  [LogUtilities] Serach car test completed 
+2021-05-23 18:07:25,385 INFO  [LogUtilities] Login user test completed 
+2021-05-23 18:07:27,071 INFO  [LogUtilities] Car booking test completed 
+2021-05-23 18:07:28,813 INFO  [LogUtilities] Calculate price test completed 
+2021-05-23 18:07:30,971 INFO  [LogUtilities] List bookings test completed 
