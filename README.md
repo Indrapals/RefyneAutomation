@@ -1,4 +1,4 @@
-# RefyneAutomation
+# RestAPIAutomation
 
 The framework is developed using :
 
