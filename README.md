@@ -14,7 +14,7 @@ The framework is developed using :
 
 Steps to clone execute the tests
 
-git clone https://github.com/Indrapals/RefyneAutomation.git
+git clone https://github.com/Indrapals/RestAPIAutomation.git
 
 cd RefyneAutomation
 
